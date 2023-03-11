@@ -1,0 +1,24 @@
+{
+  "name": "itax_tax_details",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishiraj-58/itax_tax_details.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishiraj-58/itax_tax_details/issues"
+  },
+  "homepage": "https://github.com/rishiraj-58/itax_tax_details#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.21"
+  }
+}
